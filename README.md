@@ -1,1 +1,1 @@
-# DDR-Graphics
+# Dance Dance Revolution Graphics Variations
