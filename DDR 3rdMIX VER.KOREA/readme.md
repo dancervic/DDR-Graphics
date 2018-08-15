@@ -10,5 +10,6 @@
 <br>FACE > BASIC / MANIAC
 <br>BA KKWO > BASIC* / MANIAC
 
+LEE JUNG HYUN's songs:
 <br>* - SINGLE/DOUBLE BASIC and SINGLE/DOUBLE TRICK are different
 <br>compare to "DDR 3rdMIX PLUS" or "DDR 3rdMIX Ver.KOREA2"
