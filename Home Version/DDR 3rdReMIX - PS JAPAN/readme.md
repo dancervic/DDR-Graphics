@@ -31,5 +31,3 @@
 <br>AFTER THE GAME OF LOVE > TRICK / MANIAC
 <br>* - TRICK in DOUBLE Mode as DDR 2ndMIX LINK VERSION songs has no DOUBLE MANIAC yet.
 <br>** - TRICK in DOUBLE Mode. No DOUBLE MANIAC yet and later added in "Dance Dance Revolution 3rdMIX PLUS".
-
-
