@@ -6,7 +6,7 @@
 
 =FOR BEGINNER=
 <br>TUBTHUMPING > BASIC / TRICK / MANIAC
-<br>I Will SUrvive > BASIC / TRICK / MANIAC
+<br>I Will Survive > BASIC / TRICK / MANIAC
 <br>Silent Hill > BASIC / TRICK / MANIAC
 <br>Sway (Mucho Mambo) > BASIC / TRICK / MANIAC
 
