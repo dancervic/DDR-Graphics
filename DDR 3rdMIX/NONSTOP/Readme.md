@@ -4,6 +4,12 @@
 <br>IN THE NAVY '99 [XXL Disaster Remix] > TRICK / MANIAC
 <br>CAPTAIN JACK [GRANDALE REMIX] > TRICK / MANIAC
 
+=CAPTAIN= (Classic Mini)
+<br>THE RACE [Formula One Mix] > BASIC / MANIAC
+<br>La Senorita > BASIC / MANIAC
+<br>IN THE NAVY '99 [XXL Disaster Remix] > TRICK / MANIAC
+<br>CAPTAIN JACK [GRANDALE REMIX] > TRICK / MANIAC
+
 =CLASSICS= (JAPAN Ver.)
 <br>IT ONLY TAKES A MINUTE [Extended Remix] > BASIC / MANIAC
 <br>GET UP (BEFORE THE NIGHT IS OVER) > BASIC / MANIAC
@@ -17,6 +23,12 @@
 <br>BOOM BOOM DOLLAR [K.O.G G3 MIX] > BASIC / MANIAC
 <br>* - ASIAN Version Single BASIC. Double BASIC same from JAPAN Version.
 <br>** - TRICK in DOUBLE Mode as 2ndMIX songs has no DOUBLE MANIAC yet.
+
+=CLASSICS= (Classic Mini)
+<br>FOLLOW THE SUN [90 IN THE SHADE MIX] > BASIC / MANIAC
+<br>butterfly [UPSWING MIX] > BASIC / MANIAC
+<br>UPSIDE DOWN > BASIC / MANIAC
+<br>BOOM BOOM DOLLAR [K.O.G G3 MIX] > BASIC / MANIAC
 
 =FAVORITE SONG=
 <br>HOLIDAY > BASIC / MANIAC
@@ -37,8 +49,21 @@
 <br>butterfly [UPSWING MIX] > TRICK / MANIAC
 <br>* - TRICK in DOUBLE Mode as 1st & 2ndMIX songs has no DOUBLE MANIAC yet.
 
+=SMILE.dk= (Classic Mini)
+<br>butterfly > TRICK / MANIAC*
+<br>butterfly [UPSWING MIX] > TRICK / MANIAC
+<br>BOYS > TRICK / MANIAC*
+<br>butterfly [UPSWING MIX] > TRICK / MANIAC
+<br>* - TRICK in DOUBLE Mode as 1st & 2ndMIX songs has no DOUBLE MANIAC yet.
+
 =SPECIAL=
 <br>AFRONOVA > TRICK / MANIAC
 <br>BOOM BOOM DOLLAR [K.O.G G3 MIX] > TRICK / MANIAC
 <br>VOL.4 > TRICK / MANIAC
+<br>DEAD END > TRICK / MANIAC
+
+=SPECIAL= (Classic Mini)
+<br>AFRONOVA > TRICK / MANIAC
+<br>BOOM BOOM DOLLAR [K.O.G G3 MIX] > TRICK / MANIAC
+<br>DYNAMITE RAVE > TRICK / MANIAC
 <br>DEAD END > TRICK / MANIAC
